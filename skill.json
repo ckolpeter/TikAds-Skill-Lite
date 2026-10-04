@@ -1,0 +1,16 @@
+{
+  "id": "tikads-skill-lite",
+  "title": "TikAds Skill Lite",
+  "version": "1.0.0",
+  "edition": "lite",
+  "platform": "tiktok_ads",
+  "scope": "short_video_planning",
+  "contract_name": "tikads.plan",
+  "contract_version": "1.0",
+  "utm_source": "tiktok",
+  "utm_medium": "paid_social",
+  "runtime_network": false,
+  "external_reads": false,
+  "external_writes": false,
+  "release_date": "2026-10-05"
+}
