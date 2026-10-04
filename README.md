@@ -1,5 +1,7 @@
 # TikAds Skill Lite v1.0.0
 
+[繁體中文](docs/i18n/README.zh-TW.md) · [简体中文](docs/i18n/README.zh-CN.md) · [English](docs/i18n/README.en.md) · [日本語](docs/i18n/README.ja.md) · [한국어](docs/i18n/README.ko.md)
+
 **AI Ads Academy／AI 廣告學院｜最基礎離線版**
 
 TikTok 廣告：短影片開場、口播分鏡、拍攝清單與創作者授權待辦。
